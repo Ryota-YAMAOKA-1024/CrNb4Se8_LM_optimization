@@ -1,4 +1,4 @@
-# CrNb4Se8_Trigonal_Distortion_ver2
+# CrNb4Se8_LM_optimization
 CrNb4Se8をLM法で構造最適化するプログラム
 ## How to use 
 python CrNb4Se8_LM.py (input file name)  
